@@ -11,8 +11,8 @@ Ejercicio: Diseña el esquema de base de datos para un sistema de e-commerce que
 Asegúrate de que esté en tercera forma normal.
 */
 
-CREATE DATABASE IF NOT EXISTS ecommerce;
-use ecommerce;
+CREATE DATABASE IF NOT EXISTS ecommerce0;
+use ecommerce0;
 
 CREATE TABLE IF NOT EXISTS direcciones_envio (
 	id INT PRIMARY KEY AUTO_INCREMENT,
